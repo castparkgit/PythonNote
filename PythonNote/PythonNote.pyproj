@@ -24,6 +24,7 @@
     <Compile Include="helloworld.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="practice.py" />
     <Compile Include="PythonNote.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
